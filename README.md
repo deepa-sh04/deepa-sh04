@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,there_I_am_Deepa+Sharma)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+There,+I+AM+DEEPA+SHARMA)
 
 💻 Aspiring Software Developer |🎯 Problem Solver  
 
