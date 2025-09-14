@@ -73,3 +73,11 @@ Hardworking and dedicated software professional seeking a role in a software-bas
 ### 📊 GitHub Stats
 ![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepa-sh04&show_icons=true&theme=radical)
 
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepa-sh04&layout=compact&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=deepa-sh04&theme=radical&hide_border=true)
+
+
+
