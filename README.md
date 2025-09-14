@@ -1,4 +1,4 @@
-# Hi there, I'm Deepa Sharma 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Deepa+Sharma)
 
 💻 Aspiring Software Developer |🎯 Problem Solver  
 
