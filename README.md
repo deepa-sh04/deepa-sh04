@@ -71,13 +71,5 @@ Hardworking and dedicated software professional seeking a role in a software-bas
 
 ⭐ *"Passionate about technology, learning, and building impactful solutions for the future."*  
 ### 📊 GitHub Stats
-![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepasha44&show_icons=true&theme=radical)
-
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepasha44&layout=compact&theme=radical)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=deepasha44&theme=radical&hide_border=true)
-
-
+![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepa-sh04&show_icons=true&theme=radical)
 
