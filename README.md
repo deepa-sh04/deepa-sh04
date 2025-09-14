@@ -64,7 +64,8 @@ Hardworking and dedicated software professional seeking a role in a software-bas
 - 📧 Email: desh22ece@cmrit.ac.in  
 - 💼 LinkedIn: [Deepa Sharma](https://www.linkedin.com/in/deepa-sharma-3a205b265/)  
 - 👩‍💻 GitHub: [deepa-sh04](https://github.com/deepa-sh04)  
-- 🎯 LeetCode: [deepash780](https://leetcode.com/u/deepash780/)  
+- 🎯 LeetCode: [deepash780](https://leetcode.com/u/deepash780/)
+- 👩‍💻 GeeksforGeeks:https://www.geeksforgeeks.org/user/deepasha44/
 
 ---
 
