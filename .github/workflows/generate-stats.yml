@@ -1,0 +1,45 @@
+name: Generate GitHub Readme Stats
+
+on:
+  workflow_dispatch:    
+  schedule:
+    - cron: '0 */12 * * *'  
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Make assets directory
+        run: mkdir -p assets
+
+      - name: Fetch generated SVGs
+        env:
+          TOKEN: ${{ secrets.GH_README_STATS }}
+          USER: deepa-sh04
+        run: |
+          # GitHub Readme Stats (main stats)
+          curl -s "https://github-readme-stats.vercel.app/api?username=$USER&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=$TOKEN" -o assets/github-stats.svg
+
+          # Top Languages
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=$USER&layout=compact&theme=radical&token=$TOKEN" -o assets/top-langs.svg
+
+          # Streak stats (no token required normally)
+          curl -s "https://streak-stats.demolab.com?user=$USER&theme=radical&hide_border=true" -o assets/streak-stats.svg
+
+      - name: Commit and push generated images
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-langs.svg assets/streak-stats.svg
+          git commit -m "chore(readme): update generated stats" || echo "No changes to commit"
+          git push
