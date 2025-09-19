@@ -9,7 +9,7 @@ My focus is on leveraging my skills in **Python, Django, and AI** to create impa
 ---
 
 ## 🛠️ Technical Skills
-* **Languages**: Python, MATLAB, C  
+* **Languages**: Python, MATLAB, C  , java(basic)
 * **Web Development**: HTML, CSS, JavaScript, Django  
 * **Databases**: MySQL  
 * **Tools & Platforms**: Git, GitHub, MATLAB, Cadence (VLSI Design), Keil µVision  
