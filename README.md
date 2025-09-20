@@ -60,11 +60,11 @@ Used **EDA, correlation heatmaps, and visualization** to find trends in music fe
 
 ---
 
-## 📊 GitHub Stats
-![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepa-sh04&show_icons=true&theme=radical)
+## 🔥 GitHub Stats
 
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepa-sh04&layout=compact&theme=radical)
+[![Deepa’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepa-sh04&show_icons=true&theme=radical&count_private=true)](https://github.com/deepa-sh04)
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=deepa-sh04&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepa-sh04&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=deepa-sh04&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
